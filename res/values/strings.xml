@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SoundappActivity!</string>
+    <string name="app_name">BandIt</string>
+    <string name="sound1">sound 1</string>
+    <string name="sound2">sound 2</string>
+    <string name="sound3">sound 3</string>
+    <string name="sound4">sound 4</string>
+    <string name="sound5">sound 5</string>
+    <string name="sound6">sound 6</string>
+    <string name="playmusic">Play Music</string>
+    <string name="instrumentlist">Instruments and Sounds</string>
+	<string name="cancel">Cancel</string>
+	<string name="exit">Exit</string>
+	<string name="about">About</string>
+	<string name="aboutText">
+        Created by: Rhys Yu \n\n
+        Disclaimer: This is a non-profit app and the music found here belongs to the musical labels and artists.\n\n
+        Purpose: To complete CS M117 final project and to learn Android programming. \n\n
+        Added features: \n\n        
+    </string>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#AAAAAA</color>
+    <string name="piano">Piano</string>
+    <string name="guitar">Guitar</string>
+    <string name="drums">Drums</string>
+    <string name="misc">Misc</string>
+</resources>

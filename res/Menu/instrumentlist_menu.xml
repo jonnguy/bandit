@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_piano" android:title="Piano" />
+    <item android:id="@+id/menu_guitar" android:title="Guitar"/>
+    <item android:id="@+id/menu_drums" android:title="Drums"/>
+</menu>
